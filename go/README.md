@@ -1,1 +1,1 @@
-Go implemetation of the rtalk-server
+Go implementation of the rtalk-server
